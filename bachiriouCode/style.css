@@ -54,6 +54,7 @@ img { max-width: 100%; display: block; }
 .accent { color: var(--color-primary); }
 
 /* ---------- Buttons ---------- */
+
 .btn {
   display: inline-flex;
   align-items: center;
@@ -140,6 +141,9 @@ img { max-width: 100%; display: block; }
 /* ============================================
    HEADER
    ============================================ */
+img.logo{
+  border-radius: 100%;
+}
 .site-header {
   position: sticky;
   top: 0;
