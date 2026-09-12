@@ -712,7 +712,7 @@ order: 2;
 }
 .carousel-dot {
   width: 8px;
-  height: 8px;
+  height: 12px;
   border-radius: 50%;
   background: var(--color-border);
   transition: background 0.15s ease, transform 0.15s ease;
